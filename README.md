@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KarolinaKotwica
+- ❤️ I live in Switzerland
+- 🌍 I come from Poland
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning React and Python
+- 📫 How to reach me: karolina.kotwica@powercoders.org
