@@ -2,5 +2,5 @@
 - ❤️ I live in Switzerland
 - 🌍 I come from Poland
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently learning Python and React
 - 📫 How to reach me: karolina.kotwica@powercoders.org
